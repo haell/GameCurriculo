@@ -1,0 +1,52 @@
+{
+  "quizzes": [
+    {
+      "section": "objetivo",
+      "type": "single",
+      "question": "Esse objetivo profissional está claro e atrativo?",
+      "options": ["Sim, está claro", "Quase, pode ser mais direto", "Precisa ser mais específico"]
+    },
+    {
+      "section": "resumo",
+      "type": "drag-pick",
+      "question": "Quais 3 destaques do Israel você considera mais fortes?",
+      "options": ["Proatividade", "Raciocínio lógico", "Versatilidade (MEI/gov/privado)", "Integração de APIs", "Automação/Security", "Suporte técnico", "Infraestrutura de redes", "Certificações (AWS/PMI)"]
+    },
+    {
+      "section": "formacao",
+      "type": "ranker",
+      "question": "Ordene (1 = mais relevante para vagas de TI):",
+      "options": ["ADS (graduação em andamento)", "Python 1–3 (122h)", "AWS Certified (prep.)", "PMI - Leadership & Performance"]
+    },
+    {
+      "section": "experiencia",
+      "type": "single",
+      "question": "Qual experiência parece mais relevante para Desenvolvedor Jr?",
+      "options": ["BRB — Dev & APIs", "Secretaria — Gestão de Infra", "Prime — Automação/Suporte"]
+    },
+    {
+      "section": "habilidades",
+      "type": "checklist",
+      "question": "Marque as 3 hard skills mais valiosas (máx 3):",
+      "options": ["Python", "JavaScript/Node", "React", "SQL/MySQL", "Infra/Redes", "Automação/CFTV", "AWS", "Excel/VBA"]
+    },
+    {
+      "section": "softskills",
+      "type": "nps",
+      "question": "De 0 a 10, quão fortes parecem minhas soft skills?",
+      "options": []
+    },
+    {
+      "section": "idiomas",
+      "type": "single",
+      "question": "Seu nível de inglês é suficiente para 80% das vagas alvo?",
+      "options": ["Sim, suficiente", "Quase, reforçar conversação", "Não, precisa evoluir"]
+    },
+    {
+      "section": "extras",
+      "type": "open",
+      "question": "Sugestão para melhorar o currículo/página (opcional):",
+      "options": []
+    }
+  ]
+}
